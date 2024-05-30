@@ -303,7 +303,7 @@ main .container.block .capture{
 }
 
 .results{
-  background-image: url("./public/results.png");
+  background-image: url("./public/origin.jpg");
   background-position:left;
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -394,7 +394,7 @@ input[type="checkbox"]{
 
   .section .results{
     width: 100%;
-    background-image: url("./public/small.jpg");
+    background-image: url("./public/original.jpg");
   }
 
   .footer-below .links{
