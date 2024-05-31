@@ -3,6 +3,7 @@ var search = document.querySelector('#btn');
 var container = document.querySelector('#captureBlock');
 var section_result = document.querySelector('.section');
 var main = document.querySelector('main');
+var black_btn = document.querySelector('.black-btn');
 
 search.addEventListener('click',()=>{
 
@@ -26,3 +27,5 @@ search.addEventListener('click',()=>{
         }
     }
 })
+
+black_btn.addEventListener("click",()=>window.print())

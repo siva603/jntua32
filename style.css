@@ -28,7 +28,7 @@ body {
   margin: 0 auto;
   /* padding: 0 32px; */
   min-width: 320px;
-  background-color: var(--backgroundColor);
+  background-color:#FAFAFA;
 }
 
 h1,
@@ -303,7 +303,7 @@ main .container.block .capture{
 }
 
 .results{
-  background-image: url("./public/origin.jpg");
+  display: none;
   background-position:left;
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -311,9 +311,24 @@ main .container.block .capture{
   width:152rem;
   height: 90rem;
   margin-bottom: 5rem;
-  display: none;
+
+img{
+    width:110rem;
+    height: 90rem;
+  }
+  transform: translateX(10%);
+  -webkit-transform: translateX(10%);
+  -moz-transform: translateX(10%);
+  -ms-transform: translateX(10%);
+  -o-transform: translateX(10%);
+}
+.black-btn{
+  display:none;
 }
 .section.show .results{
+  display: block;
+}
+.section.show .black-btn{
   display: block;
 }
 
@@ -338,6 +353,26 @@ input[type="checkbox"]{
 }
 
 
+.section .button{
+  display: grid;
+  place-items: center;
+  margin-bottom: 10rem;
+  button{
+    text-align: center;
+    font-size: 1.9rem;
+    padding: 0.6rem 2.8rem;
+    outline: none;
+    color: white;
+    background-color: #000000;
+    border-color: transparent;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+  }
+}
+
 @media (width <= 400px) {
   .container{
     padding:0rem 1rem;
@@ -347,7 +382,7 @@ input[type="checkbox"]{
     font-size: 50.5%;
   }
   body{
-  background-color:#E8E4E5;
+  background-color:#FAFAFA;
   }
   header{
     display: flex;
@@ -395,13 +430,26 @@ input[type="checkbox"]{
   }
 
   .section .results{
-    width:140rem;
-    background-image: url("./public/small.jpg");
-    transform: translateX(-2rem);
-    -webkit-transform: translateX(-2rem);
-    -moz-transform: translateX(-2rem);
-    -ms-transform: translateX(-2rem);
-    -o-transform: translateX(-2rem);
+    transform: translateX(0rem);
+    -webkit-transform: translateX(0rem);
+    -moz-transform: translateX(0rem);
+    -ms-transform: translateX(0rem);
+    -o-transform: translateX(0rem);
+
+img{
+      width:140rem;
+      height: 90rem;
+      src: url("./public/small.jpg");
+    }
+
+}
+
+.section  .black-btn{
+  transform: translateX(50rem);
+  -webkit-transform: translateX(50rem);
+  -moz-transform: translateX(50rem);
+  -ms-transform: translateX(50rem);
+  -o-transform: translateX(50rem);
 }
 
   .footer-below .links{
