@@ -12,10 +12,17 @@ search.addEventListener('click',()=>{
         container.classList.add('block');
         main.style.marginBottom="5rem"
         search.innerHTML = "view another result";
-        input.innerContent = "";
+        input.value = "";
         section_result.classList.add("show")
     }
     else{
-        alert("Invalid hallticket");
+        if(container.classList.contains('block')){
+            container.classList.remove('block');
+            search.innerHTML = "search";
+            section_result.classList.remove("show");
+        }
+        else{
+            alert("Invalid hallticket");
+        }
     }
 })
