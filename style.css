@@ -28,7 +28,6 @@ body {
   margin: 0 auto;
   /* padding: 0 32px; */
   min-width: 320px;
-  background-color:#FAFAFA;
 }
 
 h1,
@@ -323,14 +322,9 @@ img{
   -o-transform: translateX(10%);
 }
 .black-btn{
-  display:none;
+  display:block;
 }
-.section.show .results{
-  display: block;
-}
-.section.show .black-btn{
-  display: block;
-}
+
 
 
 .sidebar{
@@ -372,6 +366,95 @@ input[type="checkbox"]{
     -o-border-radius: 8px;
   }
 }
+
+.table{
+  display: grid;
+  place-items: center;
+}
+
+.table table{
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  font-size: 1.5rem;
+  box-shadow: 0rem 0rem 0.1rem black;
+  overflow: hidden;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+table,tr,td,th{
+  border: 1px solid #F0F0F0;
+}
+tbody,td{
+  padding: 0.5rem 0.3rem;
+}
+thead,th{
+  width:123px;
+  height: 6rem;
+  padding: 1rem 2rem;
+  font-weight: 900;
+  background-color: #C3F2FF;
+}
+th:nth-child(2){
+  width:492px;
+}
+
+.table-top{
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+  .gap{
+    margin: 0 12rem;
+  }
+  .green{
+    color: green;
+  }
+}
+
+.table-bottom{
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+  .dark{
+    font-weight: 900;
+    font-size: 1.8rem;
+  }
+
+}
+
+.section .container{
+  display: none;
+  place-items: center;
+}
+
+.red-box{
+  width: 80%;
+  text-align: center;
+  color: red;
+  margin: 4rem 0rem;
+  padding: 1.5rem 2rem;
+  font-size: 2rem;
+  border: 2px solid transparent;
+  box-shadow: 0rem 0rem 0.4rem black;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+/* 
+.section.show .results{
+  display: block;
+} */
+
+.section.show .container{
+  display: grid;
+}
+
 
 @media (width <= 400px) {
   .container{
@@ -444,13 +527,6 @@ img{
 
 }
 
-.section  .black-btn{
-  transform: translateX(50rem);
-  -webkit-transform: translateX(50rem);
-  -moz-transform: translateX(50rem);
-  -ms-transform: translateX(50rem);
-  -o-transform: translateX(50rem);
-}
 
   .footer-below .links{
     display: flex;

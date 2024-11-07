@@ -1,0 +1,116 @@
+[
+    {
+        "col1":"Subject Code",
+        "col2":"Subject Name",
+        "col3":"Internal Marks",
+        "col4":"External Marks",
+        "col5":"Total Marks",
+        "col6":"Result Status",
+        "col7":"Credits",
+        "col8":"Grade"
+    },
+    {
+        							
+    "col1":"20A05506",
+    "col2":"SOC III-ADVANCED WEB APPLICATION DEVELOPMENT",
+    "col3":"28",
+    "col4":"69",
+    "col5":"97",
+    "col6":"P",
+    "col7":"2",
+    "col8":"S"
+    },
+    {   							
+    "col1":"20A05503",
+    "col2":"FORMAL LANGUAGES AND AUTOMATA THEORY",
+    "col3":"29",
+    "col4":"48",
+    "col5":"77",
+    "col6":"P",
+    "col7":"3",
+    "col8":"B"
+    },
+    {   							
+    "col1":"20A05502T",
+    "col2":"ARTIFICIAL INTELLIGENCE",
+    "col3":"28",
+    "col4":"41",
+    "col5":"69",
+    "col6":"P",
+    "col7":"3",
+    "col8":"S"
+    },
+    {   							
+    "col1":"20A05507",
+    "col2":"COMMUNITY SERVICE PROJECT",
+    "col3":"95",
+    "col4":"0",
+    "col5":"95",
+    "col6":"P",
+    "col7":"1.5",
+    "col8":"C"
+    },
+    {   							
+    "col1":"20A05501T",
+    "col2":"COMPUTER NETWORKS",
+    "col3":"26",
+    "col4":"40",
+    "col5":"66",
+    "col6":"P",
+    "col7":"3",
+    "col8":"S"
+    },
+    {   							
+    "col1":"20A05504c",
+    "col2":"BIG DATA TECHNOLOGIES",
+    "col3":"27",
+    "col4":"50",
+    "col5":"77",
+    "col6":"P",
+    "col7":"3",
+    "col8":"B"
+    },
+    {   							
+    "col1":"20A99201a",
+    "col2":"ENVIRONMENTAL SCIENCE",
+    "col3":"28",
+    "col4":"0",
+    "col5":"27",
+    "col6":"P",
+    "col7":"0",
+    "col8":"Y"
+    },
+    {   							
+    "col1":"20A05501P",
+    "col2":"COMPUTER NETWORKS LAB",
+    "col3":"29",
+    "col4":"69",
+    "col5":"98",
+    "col6":"P",
+    "col7":"1.5",
+    "col8":"S"
+    },
+    {   							
+    "col1":"20A05502P",
+    "col2":"ARTIFICIAL INTELLIGENCE LAB",
+    "col3":"29",
+    "col4":"69",
+    "col5":"98",
+    "col6":"P",
+    "col7":"1.5",
+    "col8":"S"
+    },
+    {   							
+    "col1":"20A54501",
+    "col2":"OPTIMIZATION TECHNIQUES",
+    "col3":"29",
+    "col4":"30",
+    "col5":"59",
+    "col6":"P",
+    "col7":"2",
+    "col8":"B"
+    }
+   
+]
+    					
+   
