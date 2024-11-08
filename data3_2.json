@@ -10,107 +10,104 @@
         "col8":"Grade"
     },
     {
-        							
-    "col1":"20A05506",
-    "col2":"SOC III-ADVANCED WEB APPLICATION DEVELOPMENT",
-    "col3":"28",
-    "col4":"69",
-    "col5":"97",
+               
+    "col1":"20A52401",
+    "col2":"SOC-IV SOFT SKILLS",
+    "col3":"27",
+    "col4":"67",
+    "col5":"94",
     "col6":"P",
     "col7":"2",
     "col8":"S"
     },
-    {   							
-    "col1":"20A05503",
-    "col2":"FORMAL LANGUAGES AND AUTOMATA THEORY",
-    "col3":"29",
-    "col4":"48",
-    "col5":"77",
+    {          
+    "col1":"20A05601P",
+    "col2":"COMPILER DESIGN LAB",
+    "col3":"25",
+    "col4":"65",
+    "col5":"90",
     "col6":"P",
-    "col7":"3",
+    "col7":"1.5",      
     "col8":"B"
     },
-    {   							
-    "col1":"20A05502T",
-    "col2":"ARTIFICIAL INTELLIGENCE",
-    "col3":"28",
-    "col4":"41",
-    "col5":"69",
+    {          
+    "col1":"20A01605",
+    "col2":"ENVIRONMENTAL ECONOMICS",
+    "col3":"23",
+    "col4":"35",
+    "col5":"58",
     "col6":"P",
     "col7":"3",
-    "col8":"S"
+    "col8":"D"
     },
-    {   							
-    "col1":"20A05507",
-    "col2":"COMMUNITY SERVICE PROJECT",
-    "col3":"95",
-    "col4":"0",
-    "col5":"95",
+    {          
+    "col1":"20A05602T",
+    "col2":"MACHINE LEARNING",
+    "col3":"24",
+    "col4":"29",
+    "col5":"53",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05601T",
+    "col2":"COMPILER DESGIN",
+    "col3":"23",
+    "col4":"25",
+    "col5":"48",
+    "col6":"P",
+    "col7":"3",
+    "col8":"E"
+    },
+    {          
+    "col1":"20A05604a",
+    "col2":"SOFTWARE TESTING",
+    "col3":"21",
+    "col4":"33",
+    "col5":"54",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05603T",
+    "col2":"INTERNET OF THINGS",
+    "col3":"22",
+    "col4":"32",
+    "col5":"54",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05602P",
+    "col2":"MACHINE LEARNING LAB",
+    "col3":"26",
+    "col4":"66",
+    "col5":"92",
     "col6":"P",
     "col7":"1.5",
-    "col8":"C"
-    },
-    {   							
-    "col1":"20A05501T",
-    "col2":"COMPUTER NETWORKS",
-    "col3":"26",
-    "col4":"40",
-    "col5":"66",
-    "col6":"P",
-    "col7":"3",
     "col8":"S"
     },
-    {   							
-    "col1":"20A05504c",
-    "col2":"BIG DATA TECHNOLOGIES",
-    "col3":"27",
-    "col4":"50",
-    "col5":"77",
+    {          
+    "col1":"20A05603P",
+    "col2":"INTERNET OF THINGS LAB",
+    "col3":"26",
+    "col4":"64",
+    "col5":"90",
     "col6":"P",
-    "col7":"3",
-    "col8":"B"
+    "col7":"1.5",
+    "col8":"S"
     },
-    {   							
-    "col1":"20A99201a",
-    "col2":"ENVIRONMENTAL SCIENCE",
-    "col3":"28",
+    {          
+    "col1":"20A99601",
+    "col2":"INTELLECTUAL PROPERTY RIGHTS&PATENTS",
+    "col3":"26",
     "col4":"0",
-    "col5":"27",
+    "col5":"26",
     "col6":"P",
     "col7":"0",
     "col8":"Y"
-    },
-    {   							
-    "col1":"20A05501P",
-    "col2":"COMPUTER NETWORKS LAB",
-    "col3":"29",
-    "col4":"69",
-    "col5":"98",
-    "col6":"P",
-    "col7":"1.5",
-    "col8":"S"
-    },
-    {   							
-    "col1":"20A05502P",
-    "col2":"ARTIFICIAL INTELLIGENCE LAB",
-    "col3":"29",
-    "col4":"69",
-    "col5":"98",
-    "col6":"P",
-    "col7":"1.5",
-    "col8":"S"
-    },
-    {   							
-    "col1":"20A54501",
-    "col2":"OPTIMIZATION TECHNIQUES",
-    "col3":"29",
-    "col4":"30",
-    "col5":"59",
-    "col6":"P",
-    "col7":"2",
-    "col8":"B"
-    }
-   
+}
 ]
-    					
-   
