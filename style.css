@@ -505,6 +505,13 @@ th:nth-child(2){
     .green{
       font-size: 1.5rem;
     }
+    .gap{
+      margin: 0;
+      margin-left: 12.5rem;
+    }
+    .studentname-text{
+      margin-right: 2rem;
+    }
   }
 
   .table{
