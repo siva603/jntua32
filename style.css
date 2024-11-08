@@ -508,13 +508,14 @@ th:nth-child(2){
   }
 
   .table{
-    padding-left: 32rem;
+    padding-left: 33rem;
     width: 100%;
     overflow-x: auto;
   }
 
   .table .result-table{
     width: 100%;
+    padding: 2rem;
   }
   .menu .left{
     display: none;
