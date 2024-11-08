@@ -499,6 +499,23 @@ th:nth-child(2){
    
     }
   }
+
+  .table-top{
+
+    .green{
+      font-size: 1.5rem;
+    }
+  }
+
+  .table{
+    padding-left: 32rem;
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .table .result-table{
+    width: 100%;
+  }
   .menu .left{
     display: none;
   }

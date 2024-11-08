@@ -1,4 +1,117 @@
-import data from './data3_2.json';
+// import data from './data3_2.json';
+var data = [
+    {
+        "col1":"Subject Code",
+        "col2":"Subject Name",
+        "col3":"Internal Marks",
+        "col4":"External Marks",
+        "col5":"Total Marks",
+        "col6":"Result Status",
+        "col7":"Credits",
+        "col8":"Grade"
+    },
+    {
+               
+    "col1":"20A52401",
+    "col2":"SOC-IV SOFT SKILLS",
+    "col3":"27",
+    "col4":"67",
+    "col5":"94",
+    "col6":"P",
+    "col7":"2",
+    "col8":"S"
+    },
+    {          
+    "col1":"20A05601P",
+    "col2":"COMPILER DESIGN LAB",
+    "col3":"25",
+    "col4":"65",
+    "col5":"90",
+    "col6":"P",
+    "col7":"1.5",      
+    "col8":"B"
+    },
+    {          
+    "col1":"20A01605",
+    "col2":"ENVIRONMENTAL ECONOMICS",
+    "col3":"23",
+    "col4":"35",
+    "col5":"58",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05602T",
+    "col2":"MACHINE LEARNING",
+    "col3":"24",
+    "col4":"29",
+    "col5":"53",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05601T",
+    "col2":"COMPILER DESGIN",
+    "col3":"23",
+    "col4":"25",
+    "col5":"48",
+    "col6":"P",
+    "col7":"3",
+    "col8":"E"
+    },
+    {          
+    "col1":"20A05604a",
+    "col2":"SOFTWARE TESTING",
+    "col3":"21",
+    "col4":"33",
+    "col5":"54",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05603T",
+    "col2":"INTERNET OF THINGS",
+    "col3":"22",
+    "col4":"32",
+    "col5":"54",
+    "col6":"P",
+    "col7":"3",
+    "col8":"D"
+    },
+    {          
+    "col1":"20A05602P",
+    "col2":"MACHINE LEARNING LAB",
+    "col3":"26",
+    "col4":"66",
+    "col5":"92",
+    "col6":"P",
+    "col7":"1.5",
+    "col8":"S"
+    },
+    {          
+    "col1":"20A05603P",
+    "col2":"INTERNET OF THINGS LAB",
+    "col3":"26",
+    "col4":"64",
+    "col5":"90",
+    "col6":"P",
+    "col7":"1.5",
+    "col8":"S"
+    },
+    {          
+    "col1":"20A99601",
+    "col2":"INTELLECTUAL PROPERTY RIGHTS&PATENTS",
+    "col3":"26",
+    "col4":"0",
+    "col5":"26",
+    "col6":"P",
+    "col7":"0",
+    "col8":"Y"
+}
+];
 
 var input = document.getElementById("roll");
 var search = document.querySelector('#btn');
