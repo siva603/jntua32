@@ -64,12 +64,12 @@ var data = [
     {          
     "col1":"20A05604a",
     "col2":"SOFTWARE TESTING",
-    "col3":"21",
-    "col4":"33",
-    "col5":"54",
+    "col3":"23",
+    "col4":"25",
+    "col5":"48",
     "col6":"P",
     "col7":"3",
-    "col8":"D"
+    "col8":"E"
     },
     {          
     "col1":"20A05603T",
